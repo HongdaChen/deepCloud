@@ -1,0 +1,1 @@
+function exptg() { this.wirte = function(A) { if (A == -1) { location.href = "/reg/login.html" } else { if (A == 0) { alert("") } else { window.open("/exp/tg.html") } } } };
